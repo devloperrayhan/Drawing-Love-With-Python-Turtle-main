@@ -9,7 +9,9 @@ Drawing Love With Python Turtle Main
   2. import turtle
 
 # installation pip
-  1. python -m pip install turtle
+```txt
+  python -m pip install turtle
+```
 
  **********************************
 |          Developer Rayhan        |
